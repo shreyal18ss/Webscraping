@@ -133,6 +133,7 @@ print(Liking)
 
 
 plt.plot(x,z)
+plt.scatter(x,z)
 
 
 # In[194]:
